@@ -1,0 +1,11 @@
+Comprehensions in Python are a way to create a new sequence from an already existing sequence.
+
+There are four main types of comprehensions in Python: 
+
+List comprehension 
+
+Dictionary comprehension 
+
+Set comprehension 
+
+Generator comprehension
