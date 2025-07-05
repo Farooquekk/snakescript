@@ -1,0 +1,36 @@
+Time Complexity – Big O Notation 
+1. O(1) – Constant Time
+The execution time remains the same regardless of input size.
+
+Example: Accessing a value in a dictionary using its key.
+
+Key Idea: Direct access with no iteration.
+
+2. O(n) – Linear Time
+Execution time increases proportionally with input size.
+
+Example: Searching through a list.
+
+Key Idea: Each item is checked once.
+
+3. O(log n) – Logarithmic Time
+Execution time increases slowly as input size grows.
+
+Example: Binary search.
+
+Key Idea: Divide the problem in half each step.
+
+4. O(n²) – Quadratic Time
+Execution time increases with the square of the input size.
+
+Example: Nested loops comparing elements.
+
+Key Idea: For each item, iterate through the entire dataset again.
+
+5. O(2ⁿ) – Exponential Time
+Execution time doubles with each increase in input size.
+
+Example: Recursive calculation of the Fibonacci sequence.
+
+Key Idea: Extremely inefficient for large inputs.
+
